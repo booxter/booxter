@@ -7,7 +7,7 @@ open source cloud and SDN projects, including
 [Open vSwitch](https://www.openvswitch.org/)
 (mostly [OVN](https://www.ovn.org/)).
 
-Primary tools: Unix, C, Python, Go, some Shell.
+**Primary tools**: Unix, C, Python, Go, some Shell.
 
 Also: tmux, NeoVim, Obsidian, Nix. All things CLI.
 
@@ -15,15 +15,15 @@ Also: tmux, NeoVim, Obsidian, Nix. All things CLI.
 
 🔭 I’m currently working on the
 [next](https://www.redhat.com/en/blog/red-hat-openstack-services-openshift-next-generation-red-hat-openstack-platform)
-cloud native version of Red Hat OpenStack.
+cloud native version of **Red Hat OpenStack**.
 
-I'm also contributing to [Instruct Lab](https://instructlab.ai/), a LLM
+I'm also contributing to [**Instruct Lab**](https://instructlab.ai/), a LLM
 training tool set.
 
 ---
 
 🌱 These days, I’m exploring the world of declarative pure configuration using
-[Nix](https://nixos.org/).
+[**Nix**](https://nixos.org/).
 
 ---
 
