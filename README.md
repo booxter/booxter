@@ -1,29 +1,31 @@
 ### Hi there 👋
 
-I'm a Systems Software Engineer in Networking. I contributed to several major
-open source cloud and SDN projects, including
+I'm a Systems Software Engineer in N~~e~~**o**tworking.
+
+I contributed to several major open source cloud and SDN projects, including
 [OpenStack](https://www.openstack.org/),
 [KubeVirt](https://kubevirt.io/),
-[Open vSwitch](https://www.openvswitch.org/)
-(mostly [OVN](https://www.ovn.org/)).
-
-**Primary tools**: Unix, C, Python, Go, some Shell.
-
-Also: tmux, NeoVim, Obsidian, Nix. All things CLI.
+[Open vSwitch](https://www.openvswitch.org/) and [OVN](https://www.ovn.org/).
 
 ---
 
-🔭 I’m currently working on the
+🔭 My latest major project was making the networking integration for the
 [next](https://www.redhat.com/en/blog/red-hat-openstack-services-openshift-next-generation-red-hat-openstack-platform)
-cloud native version of **Red Hat OpenStack**.
+cloud native version of **Red Hat OpenStack** a success.
 
-I'm also contributing to [**Instruct Lab**](https://instructlab.ai/), a LLM
-training tool set.
+🧪 I have now moved to AI realm (haven't we all) and work closely with the
+[**Instruct Lab**](https://instructlab.ai/) community.
 
 ---
 
 🌱 These days, I’m exploring the world of declarative pure configuration using
 [**Nix**](https://nixos.org/).
+
+---
+
+**Primary tools**: Unix, C, Python, Go, some Shell.
+
+Also: tmux, NeoVim, Obsidian, Nix. All things CLI.
 
 ---
 
