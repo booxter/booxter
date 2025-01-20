@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Systems Software Engineer in N~~e~~**o**tworking.
+I'm a Systems Software Engineer in N**o**tworking.
 
 I contributed to several major open source cloud and SDN projects, including
 [OpenStack](https://www.openstack.org/),
