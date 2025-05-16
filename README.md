@@ -13,8 +13,8 @@ I contributed to several major open source cloud and SDN projects, including
 [next](https://www.redhat.com/en/blog/red-hat-openstack-services-openshift-next-generation-red-hat-openstack-platform)
 cloud native version of **Red Hat OpenStack** a success.
 
-🧪 I have now moved to AI realm (haven't we all) and work closely with the
-[**Instruct Lab**](https://instructlab.ai/) community.
+🧪 I have now moved to GenAI area and work closely with the
+[**Instruct Lab**](https://instructlab.ai/) and [**Llama Stack**](https://llama-stack.readthedocs.io/en/latest/) communities.
 
 ---
 
