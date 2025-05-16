@@ -23,9 +23,7 @@ cloud native version of **Red Hat OpenStack** a success.
 
 ---
 
-**Primary tools**: Unix, C, Python, Go, some Shell.
-
-Also: tmux, NeoVim, Obsidian, Nix. All things CLI.
+**Primary tools**: Unix, C, Python, Go, Shell, NeoVim, Nix.
 
 ---
 
