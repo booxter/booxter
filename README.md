@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Systems Software Engineer in N**o**tworking.
+I'm a System Software Engineer in N**o**tworking.
 
 I contributed to several major open source cloud and SDN projects, including
 [OpenStack](https://www.openstack.org/),
@@ -9,16 +9,7 @@ I contributed to several major open source cloud and SDN projects, including
 
 ---
 
-🔭 My latest major project was making the networking integration for the
-[next](https://www.redhat.com/en/blog/red-hat-openstack-services-openshift-next-generation-red-hat-openstack-platform)
-cloud native version of **Red Hat OpenStack** a success.
-
-🧪 I have now moved to GenAI area and work closely with the
-[**Instruct Lab**](https://instructlab.ai/) and [**Llama Stack**](https://llama-stack.readthedocs.io/en/latest/) communities.
-
----
-
-🌱 These days, I’m exploring the world of declarative pure configuration using
+🌱 These days, I’m also exploring the world of declarative pure configuration using
 [**Nix**](https://nixos.org/).
 
 ---
